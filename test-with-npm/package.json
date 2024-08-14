@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "is-even": "1.0.0"
+    "@warrenbhw/is-even": "1.0.0"
   }
 }
