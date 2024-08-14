@@ -1,5 +1,5 @@
 {
-  "name": "is-even",
+  "name": "@warrenbhw/is-even",
   "version": "1.0.0",
   "module": "index.ts",
   "type": "module",
